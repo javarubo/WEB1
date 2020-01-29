@@ -1,0 +1,17 @@
+am\basic\web\controller\Start.class
+am\basic\web\model\User.class
+am\basic\web\util\Datasource.class
+am\basic\web\controller\AuthenticationFilter.class
+am\basic\web\controller\Servlet.class
+am\basic\web\repository\Userrepositoryimpl.class
+am\basic\web\model\PhoneNumber.class
+am\basic\web\controller\Logout.class
+am\basic\web\repository\UserRepository.class
+am\basic\web\util\HibernateUtil.class
+am\basic\web\util\Main.class
+am\basic\web\controller\Login.class
+am\basic\web\repository\UserRepositoryJdbc.class
+am\basic\web\controller\Info.class
+am\basic\web\controller\Registration.class
+am\basic\web\model\Card.class
+am\basic\web\controller\Servlet2.class

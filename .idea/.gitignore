@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+# Default ignored files
+/workspace.xml
+
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
